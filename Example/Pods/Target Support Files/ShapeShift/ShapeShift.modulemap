@@ -1,0 +1,6 @@
+framework module ShapeShift {
+  umbrella header "ShapeShift-umbrella.h"
+
+  export *
+  module * { export * }
+}
